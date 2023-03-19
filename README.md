@@ -1,4 +1,4 @@
-# Jogo Palvra Secreta - Desenvolvido em React
+# Jogo Palavra Secreta - Desenvolvido em React
 
 ## Objetivo
 
